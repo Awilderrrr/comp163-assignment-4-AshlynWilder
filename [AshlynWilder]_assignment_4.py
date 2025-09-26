@@ -12,11 +12,5 @@ print(f"Study Hours / week: {study_hours}")
 print(f"Social Points: {social_points}")
 print(f"Stress Level: {stress_level}")
 
-# Course Planning Decision
-print("\n--- Decision 1: Course Planning ---")
-print("Choose your course load:")
-print("Choose your course load:")
-print("A) Light (12 credits)")
-print("B) Standard (15 credits)")
-print("C) Heavy (18 credits)")
+
 
